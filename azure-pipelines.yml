@@ -35,4 +35,4 @@ steps:
   inputs:
     PathtoPublish: '$(System.DefaultWorkingDirectory)/target/surefire-reports'
     ArtifactName: 'surefire-report'
-    publishLocation: 'Container
+    publishLocation: 'Container'
